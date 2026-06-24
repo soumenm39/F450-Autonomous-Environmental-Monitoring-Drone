@@ -57,3 +57,7 @@ A custom-built F450-class quadcopter designed for environmental monitoring and a
 🔄 Environmental Sensor Integration
 
 🔄 Autonomous Navigation
+
+# Acknowledgements
+
+Special thanks to Mahabrat (Aeronautical Engineering Student, IIEST Shibpur) for contributing to the drone assembly, testing, and troubleshooting process.
