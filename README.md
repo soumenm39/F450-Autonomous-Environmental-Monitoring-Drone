@@ -58,6 +58,10 @@ A custom-built F450-class quadcopter designed for environmental monitoring and a
 
 🔄 Autonomous Navigation
 
+
 # Acknowledgements
 
 Special thanks to Mahabrat (Aeronautical Engineering Student, IIEST Shibpur) for contributing to the drone assembly, testing, and troubleshooting process.
+
+
+<img width="1600" height="1200" alt="WhatsApp Image 2026-06-24 at 09 49 34" src="https://github.com/user-attachments/assets/6d0bcae3-6c7d-4ac5-81e5-3de469e3622c" />
