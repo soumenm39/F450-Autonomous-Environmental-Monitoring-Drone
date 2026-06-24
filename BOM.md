@@ -11,3 +11,6 @@
 | RadioLink T8FB Transmitter | 1 |
 | Matek PDB-XT60 | 1 |
 | 3S Li-ion Battery | 1 |
+
+<img width="1200" height="1600" alt="WhatsApp Image 2026-06-24 at 09 47 37" src="https://github.com/user-attachments/assets/c27c295a-c8eb-4067-9af4-289c1bad214f" />
+
